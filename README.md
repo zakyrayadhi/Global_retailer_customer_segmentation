@@ -103,10 +103,10 @@ Source: [Maven Analytics Data Playground](https://mavenanalytics.io/data-playgro
 ## 📊 Dashboard Preview
 
 ### Page 1 — Customer Segmentation Report
-![Customer Segmentation Dashboard](dashboard/screenshots/page1_segmentation.png)
+![Customer Segmentation Dashboard](dashboard/screenshot/page1_segmentation.png)
 
 ### Page 2 — Customer Lifetime Value Report
-![CLV Dashboard](dashboard/screenshots/page2_clv.png)
+![CLV Dashboard](dashboard/screenshot/page2_clv.png)
 ---
 
 ## 📋 Planning Implementasi Case
